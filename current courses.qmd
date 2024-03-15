@@ -1,0 +1,13 @@
+---
+title: "Spring 2024"
+---
+
+## Current Courses
+
+PA 431 Civic Technology
+
+PA 446 Coding Civic Data Applications
+
+PA 470 AI Machine Learning
+
+PA 506 Public Policy Development and Process

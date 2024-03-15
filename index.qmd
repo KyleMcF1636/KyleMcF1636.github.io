@@ -1,0 +1,26 @@
+---
+title: "Kyle McFarren"
+image: kylemcfarren.jpg
+resources: resumeMcFarren.pdf
+about: 
+  template: solana
+  image-shape: round
+  image-width: 7em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:kmcfa@uic.edu
+    - text: Github
+      icon: github
+      href: https://github.com/KyleMcF1636
+    - text: resume
+      icon: file-text
+      href: resumeMcFarren.pdf
+  id: ppc
+---
+
+::: {#ppc}
+This is my PA 446 landing page where we are learning coding for civic data applications. Attempt #3 at this, reconnecting to Github (3/14 11:36am).
+
+![We are based at UIC in the wonderful CUPPA building.](atuic.png){width="500"}
+:::

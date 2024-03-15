@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kyle McFarren - UIC MSCA"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - current courses.qmd
+      - previous courses.qmd
+
+format:
+  html:
+    theme: spacelab
+    mainfont: arial
+    fontsize: .75rem
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+    css: styles.css
+    toc: true
+
+editor: visual

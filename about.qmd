@@ -1,0 +1,10 @@
+---
+title: "About"
+image: kylemcfarren.jpg
+about: 
+  template: solana
+  image-shape: round
+  image-width: 7em
+---
+
+My name is Kyle McFarren (he/him). I live in Humboldt Park with my wife and our 2 sons (almost 7, almost 5). I've just started work as a Research Assistant with the Great Cities Institute at UIC.
