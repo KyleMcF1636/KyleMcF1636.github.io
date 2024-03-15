@@ -16,7 +16,7 @@ format:
   html:
     theme: spacelab
     mainfont: arial
-    fontsize: .75rem
+    fontsize: .85rem
     fontcolor: "#7F5858"
     linkcolor: "#ff33f0"
     monofont: courier new
