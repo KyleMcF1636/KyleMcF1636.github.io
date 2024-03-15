@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - portfolio.qmd
       - current courses.qmd
       - previous courses.qmd
 
@@ -17,7 +17,7 @@ format:
     theme: spacelab
     mainfont: arial
     fontsize: .75rem
-    fontcolor: "#0013d5"
+    fontcolor: "#7F5858"
     linkcolor: "#ff33f0"
     monofont: courier new
     css: styles.css

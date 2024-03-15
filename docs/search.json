@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Kyle McFarren",
     "section": "",
-    "text": "Email\n  \n  \n    \n     Github\n  \n  \n    \n     resume\n  \n\n      \nThis is my PA 446 landing page where we are learning coding for civic data applications. Attempt #3 at this, reconnecting to Github (3/14 11:36am).\n\n\n\nWe are based at UIC in the wonderful CUPPA building."
+    "text": "Email\n  \n  \n    \n     Github\n  \n  \n    \n     resume\n  \n\n      \nI have over 20 years leadership experience in data-driven marketing and I am currently pursuing a Master’s in Civic Analytics at UIC. After a long agency tenure working with nationwide retailers I’m now seeking to leverage data and analytics in the non-profit/public service sector.\nI’m a big fan of getting granular with data to discover what individual points can teach us about our larger big picture narratives. Connecting real world experiences to database representation is the key to storytelling with data!\n\n    \n    \n  \n\n\n\nMy wife and I live with our 2 sons in the Humboldt Park neighborhood of Chicago, where we are forever teaching our kids the right number of bikes to own is n+1."
   },
   {
     "objectID": "about.html",
@@ -33,5 +33,12 @@
     "title": "Previous Courses",
     "section": "",
     "text": "Fall 2023\nPA 401 Foundations of Public Service\nPA 402 Principles of Data Analytics\nPA 433 Data Management\nPA 434 Data Analytics"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Here’s a small sample of some work I’ve done within the MSCA program to date.\nAnalysis of YOY changes by Department in Chicago Budget.\n\nLollipop charts showing changes within each department by line item.\n\n\nMap showing 2023 assessed home value in New Trier & Evanston townships.\n\nSnapshot of a regression analysis on Affordable Housing Units by ZIP Code within City of Chicago."
   }
 ]

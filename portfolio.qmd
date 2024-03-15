@@ -1,0 +1,28 @@
+---
+title: "Portfolio"
+image: kylemcfarren.jpg
+about: 
+  template: solana
+  image-shape: round
+  image-width: 7em
+---
+
+Here's a small sample of some work I've done within the MSCA program to date.
+
+Analysis of YOY changes by Department in Chicago Budget.
+
+![](mayorbudget.png)
+
+Lollipop charts showing changes within each department by line item.
+
+![](financecomp.png)
+
+![](disabilitycomp.png)
+
+Map showing 2023 assessed home value in New Trier & Evanston townships.
+
+![](assessments.png)
+
+Snapshot of a regression analysis on Affordable Housing Units by ZIP Code within City of Chicago.
+
+![](affordableregression.png)
