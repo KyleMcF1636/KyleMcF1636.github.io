@@ -13,6 +13,9 @@ about:
     - text: Github
       icon: github
       href: https://github.com/KyleMcF1636
+    - text: LinkedIn
+      icon: LinkedIn
+      href: https://www.linkedin.com/in/kylemcfarren/
     - text: resume
       icon: file-text
       href: resumeMcFarren.pdf
